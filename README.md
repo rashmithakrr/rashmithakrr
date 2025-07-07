@@ -10,7 +10,7 @@ Passionate about building scalable, production-ready data pipelines on **AWS** a
 ## 🧰 What I Work With
 
 - **Languages:** Python, SQL  
-- **Cloud Platforms:** AWS (Glue, EMR, Athena, SageMaker, Kinesis), GCP (Dataflow, BigQuery, Vertex AI, Pub/Sub)  
+- **Cloud Platforms:** AWS (Glue, EMR, Athena, Redshift), GCP (Dataflow, BigQuery, Vertex AI, Pub/Sub)  
 - **Big Data & Streaming:** Spark, PySpark, Kafka, Hadoop, Hive  
 - **ML & AI Tools:** TensorFlow, PyTorch, scikit-learn, NLP, SMOTE  
 - **Workflow Orchestration:** Apache Airflow, Cloud Composer  
