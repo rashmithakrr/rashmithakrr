@@ -3,17 +3,16 @@
 🎯 **Data Engineer | Cloud-Native Pipelines | AI/ML Workflow Specialist**  
 Passionate about building scalable, production-ready data pipelines on **AWS** and **GCP** using Python, PySpark, and SQL. I design intelligent infrastructure that powers real-time analytics and machine learning lifecycles, turning raw data into impactful insights.
 
-🌱 Currently deepening my expertise in **Database Architecture**, **Data Warehousing**, and **ETL Automation** to deliver even more robust, efficient data solutions.
+🌱 Expertise in **Database Architecture**, **Data Warehousing**, and **ETL Automation** to deliver robust, efficient data solutions.
 
 ---
 
 ## 🧰 What I Work With
 
 - **Languages:** Python, SQL  
-- **Cloud Platforms:** AWS (Glue, EMR, Athena, Redshift), GCP (Dataflow, BigQuery, Vertex AI, Pub/Sub)  
+- **Cloud Platforms:** AWS (Glue, EMR, Athena, Redshift, Kinesis, Lambda, Managed Airflow,S3 , EC2, Managed Kafka, RDS, Step Functions , Event Bridge , SNS , SQS), GCP (Dataflow, DataProc , Data Fusion, Cloud Composer , Cloud Functions, Cloud Spanner , Cloud Storage, BigQuery, Vertex AI, Pub/Sub)  
 - **Big Data & Streaming:** Spark, PySpark, Kafka, Hadoop, Hive  
-- **ML & AI Tools:** TensorFlow, PyTorch, scikit-learn, NLP, SMOTE  
-- **Workflow Orchestration:** Apache Airflow, Cloud Composer  
+- **ML & AI Tools:** TensorFlow, PyTorch, scikit-learn, NLP, SMOTE    
 - **Visualization:** Power BI, Looker Studio, Amazon QuickSight  
 - **Databases:** MySQL, PostgreSQL  
 - **DevOps & Practices:** Agile, CI/CD, Git
